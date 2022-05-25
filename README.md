@@ -8,6 +8,8 @@ A simple skeleton for a website using `JS`
 git clone https://github.com/freddieventura/js-skeleton-webapp01 <your-newrepo>
 npm install
 npm run build
+vim -p public/index.html src/main.js
+
 ```
 
 If you want to visualize it in your `apache2` webserver you can do a symlink
